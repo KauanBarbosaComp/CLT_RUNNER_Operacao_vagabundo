@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_coxinha",
+  "name": "obj_hamburguer",
   "spriteId": {
-    "name": "spr_coxinha_strip21",
-    "path": "sprites/spr_coxinha_strip21/spr_coxinha_strip21.yy",
+    "name": "spr_hamburg_strip21",
+    "path": "sprites/spr_hamburg_strip21/spr_hamburg_strip21.yy",
   },
   "solid": false,
   "visible": true,

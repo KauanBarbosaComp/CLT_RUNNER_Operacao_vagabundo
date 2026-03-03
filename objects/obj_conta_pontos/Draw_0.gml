@@ -1,10 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-gera_comida_aleatoria();
-
-var _timer = random_range(5,180);
-alarm[0] = _timer;
+draw_text(x,y,("pontos: " + string(global.pontos)));
 
 
 

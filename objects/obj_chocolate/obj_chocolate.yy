@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_coxinha",
+  "name": "obj_chocolate",
   "spriteId": {
-    "name": "spr_coxinha_strip21",
-    "path": "sprites/spr_coxinha_strip21/spr_coxinha_strip21.yy",
+    "name": "spr_chocolate_strip21",
+    "path": "sprites/spr_chocolate_strip21/spr_chocolate_strip21.yy",
   },
   "solid": false,
   "visible": true,
