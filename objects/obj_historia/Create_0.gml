@@ -9,3 +9,4 @@ sprite_back = quadros[quadro];
 layer_id = layer_get_id("Background");
 back = layer_background_get_id(layer_id);
 layer_background_sprite(back,sprite_back);
+layer_background_speed(back,2)

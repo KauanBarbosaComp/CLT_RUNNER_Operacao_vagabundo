@@ -1,8 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-vel = 2;
-vspeed = vel;
+
+vspeed = global.velocidade;
 
 if(x < room_width/2)
 {
